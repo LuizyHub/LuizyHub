@@ -11,10 +11,10 @@
 - **기간:** 2023.11 ~
 - **기술 스택:** NestJS, Express, MongoDB, SQLite, Docker
 - **핵심 기능 및 기여:**
-  - **도커 컨테이너를 이용한 환경 구축:** 
-  - **HTTP로 원격 터미널 조작:** 
-  - **Git editor 커스터마이징:** 
-  - **AI 시스템 프롬프트 설정:** 
+  - **도커 컨테이너를 이용한 환경 구축** 
+  - **HTTP로 원격 터미널 조작** 
+  - **Git editor 커스터마이징** 
+  - **AI 시스템 프롬프트 설정** 
     - [naver cloud forum 소개](https://www.ncloud-forums.com/topic/213/)
     - [클로바 스튜디오 사용기](https://code-l.tistory.com/34)
 
