@@ -18,11 +18,6 @@
     - [naver cloud forum 소개](https://www.ncloud-forums.com/topic/213/)
     - [클로바 스튜디오 사용기](https://code-l.tistory.com/34)
 
-### 프로젝트 성과:
-- **효율적인 문제 해결 환경 제공:**
-- **사용자 경험 개선:**
-- **AI 기반 학습 지원:**
-
 ## Open Source Contribution
 ### start.spring.io 수정
 https://start.spring.io/
