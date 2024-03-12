@@ -22,9 +22,6 @@
 ### start.spring.io 수정
 https://start.spring.io/
 - **기여 내용:** `Spring REST Docs` 링크 오류 수정
-- **문제:** 생성된 `help.md`에 잘못된 링크 포함 ([Issue : # Fix broken link to Spring REST Docs reference documentation in help.md](https://github.com/spring-io/start.spring.io/issues/1407))
-- **해결:** `application.yml` 내 링크 접미사 `html5`를 `htmlsingle`로 변경 ([PR : Fix documentation link for Spring REST docs #1409](https://github.com/spring-io/start.spring.io/pull/1409))
-- **결과:** `Spring REST Docs` 접근성 개선, 사용자 경험 향상 
 - **기여 링크:**  ([Commit : Fix documentation link for Spring REST docs](https://github.com/spring-io/start.spring.io/commit/62d0497016e4e626252829318da42922d31238bc))
 
 ### Solved.ac
