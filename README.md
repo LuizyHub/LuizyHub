@@ -1,7 +1,7 @@
 ## Skills
-- 프로그래밍 언어: Java (Java 8+), TypeScript, JavaScript (ES6+)
-- 프레임워크: Spring, NestJS, Express.js
-- 도구: Git, Docker
+- Programming Language: Java (Java 8+), TypeScript, JavaScript (ES6+)
+- Framework: Spring, NestJS, Express.js
+- Tool: Git, Docker
 
 ## Projects
 ### Git Challenge
