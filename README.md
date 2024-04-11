@@ -22,7 +22,7 @@
 ### start.spring.io 수정
 https://start.spring.io/
 - **기여 내용:** `Spring REST Docs` 링크 오류 수정
-- **기여 이슈:**  ([Issues: Fix broken link to Spring REST Docs reference documentation in help.md](https://github.com/spring-io/start.spring.io/issues/1407))
+- **기여 이슈:**  [Issues: Fix broken link to Spring REST Docs reference documentation in help.md](https://github.com/spring-io/start.spring.io/issues/1407)
 
 ### Solved.ac
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=luizy991212)](https://solved.ac/luizy991212)
