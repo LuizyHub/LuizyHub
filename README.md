@@ -39,8 +39,8 @@ https://start.spring.io/
 - **기여 이슈:**  [Issues: Fix broken link to Spring REST Docs reference documentation in help.md](https://github.com/spring-io/start.spring.io/issues/1407)
 
 ## EDUCATION
-- 우아한 테크 캠프 7기–백엔드/서버 분야
-- 네이버 부스트캠프 8기- 웹/백엔드
+- 우아한 테크 캠프 7기 – 백엔드/서버
+- 네이버 부스트캠프 8기 - 웹/백엔드
 
 
 ### Solved.ac
