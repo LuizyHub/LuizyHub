@@ -38,6 +38,11 @@ https://start.spring.io/
 - **기여 내용:** `Spring REST Docs` 링크 오류 수정
 - **기여 이슈:**  [Issues: Fix broken link to Spring REST Docs reference documentation in help.md](https://github.com/spring-io/start.spring.io/issues/1407)
 
+### Spring AI docs 수정
+[Spring AI](https://spring.io/projects/spring-ai)
+- **기여 내용:** Spring AI 문서 내 잘못된 예시 수정
+- **기여 이슈:**  [Documentation: Correct response key from "generation" to "completion" in example code #1533](https://github.com/spring-projects/spring-ai/issues/1533)
+
 ## EDUCATION
 - 우아한 테크 캠프 7기 – 백엔드/서버
 - 네이버 부스트캠프 8기 - 웹/백엔드
