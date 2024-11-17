@@ -33,15 +33,12 @@ Git Challenge는 사용자들이 git을 사용하며 발생할 수 있는 다양
     - [클로바 스튜디오 사용기](https://code-l.tistory.com/34)
 
 ## OPEN SOURCE CONTRIBUTIONS
-### start.spring.io 수정
-https://start.spring.io/
-- **기여 내용:** `Spring REST Docs` 링크 오류 수정
-- **기여 이슈:**  [Issues: Fix broken link to Spring REST Docs reference documentation in help.md](https://github.com/spring-io/start.spring.io/issues/1407)
+### start.spring.io
+- [Fix broken link to Spring REST Docs reference documentation in help.md #1407](https://github.com/spring-io/start.spring.io/issues/1407)
 
-### Spring AI docs 수정
-[Spring AI](https://spring.io/projects/spring-ai)
-- **기여 내용:** Spring AI 문서 내 잘못된 예시 수정
-- **기여 이슈:**  [Documentation: Correct response key from "generation" to "completion" in example code #1533](https://github.com/spring-projects/spring-ai/issues/1533)
+### Spring AI
+- [Documentation: Correct response key from "generation" to "completion" in example code #1533](https://github.com/spring-projects/spring-ai/issues/1533)
+- [remove duplicated config building with ApiKey #1691](https://github.com/spring-projects/spring-ai/pull/1691)
 
 ## EDUCATION
 - 우아한 테크 캠프 7기 – 백엔드/서버
